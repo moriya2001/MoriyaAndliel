@@ -1,0 +1,38 @@
+body {
+
+    /*background: 'linear-gradient(to bottom, #EFA593, #FCF5EB)',*/
+    background-size: cover;
+    background: linear-gradient(to bottom, #EFA593, #FCF5EB) no-repeat center;
+ 
+}
+
+.PageBody{
+    background-image: url("../images/about.png");
+}
+/*button {*/
+/*    width: 201px;*/
+/*    height: 70px;*/
+/*    background-color: #BA4B2F;*/
+/*    margin: 574px 959px;*/
+/*    font-size: 100%;*/
+/*    border: none;*/
+/*    color: white;*/
+/*    border-radius: 8px;*/
+/*}*/
+/* 
+body{
+    background-image: url("../images/Help-Me.png");
+    background-size:  cover;
+   
+}
+button{
+    width: 200.5px;
+    height: 70.1px;
+    background-color: #BA4B2F;
+    margin: 573.9px 959.3px;
+    font-size: 100%;
+    border: none;
+    color: white;
+    border-radius: 8px;
+} */
+

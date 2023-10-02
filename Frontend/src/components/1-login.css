@@ -1,0 +1,21 @@
+login{
+    background-image: url("../images/20230321_224847_0000.png");
+    background-size:  cover;
+
+}
+.form1{
+   position: relative;
+   width: 50%;
+   height: 50%;
+   margin-right: 25%;
+   margin-left: 25%;
+}
+
+h2{
+    font-family: 'fantasy';
+    font-style: italic;
+    text-shadow: 1px 1px 1px #000000;
+
+}
+
+

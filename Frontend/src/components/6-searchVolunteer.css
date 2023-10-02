@@ -1,0 +1,42 @@
+/* .volunteering-cards-wrapper{
+    width: 100%;
+    justify-content: space-around;
+    display: flex;
+
+<<<<<<< HEAD
+} */
+/* --------- */
+/* .wrapper-search {
+    position: absolute !important;
+    top: 233px !important;
+    justify-content: space-between;
+    width: 90% !important;
+    height: 89px !important;
+    border-radius: 90px !important;
+  }
+  .wrapper-inputBase {
+    display: flex;
+    flex-direction: column;
+  }
+  .search-icon {
+    width: 73px !important;
+    height: 73px !important;
+    background-color: bisque !important;
+  }
+  .form-select {
+    border-radius: 90px !important;
+    border: none !important;
+    box-shadow: none !important;
+  }
+  .MuiFormControl-marginNormal {
+    margin-top: 0 !important;
+    margin-bottom: 0 !important;
+  } */
+  .volunteering-cards-wrapper{
+    width: 100%;
+    justify-content: space-around;
+    display: flex;
+  }
+=======
+}
+>>>>>>> f4e3b6b9900f007a7cffa23b8cce6a9f7071db57
